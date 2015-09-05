@@ -1,2 +1,2 @@
 # javascriptAjax
-Fundamental Ajax implementation using JavaScript
+A sample of Fundamental Ajax implementation using JavaScript
